@@ -40,13 +40,8 @@ I am a dedicated Offensive Security Engineer specializing in identifying and exp
 
 ---
 
-## 📊 Operational Stats
-
-> **Important:** Change `YOUR_GITHUB_USERNAME` to your actual GitHub username. I've set the theme to `tokyonight` to give it a darker, cyber-focused aesthetic.
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
